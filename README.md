@@ -1,12 +1,9 @@
 # Ciao, mi chiamo Lorenzo
 <a href="https://linkedin.com/in/lorenzo-chiavacci"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
 Diplomato con una forte passione per la cybersecurity e un occhio sempre puntato sul mondo della sicurezza digitale.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 Il mio obiettivo è entrare in un Security Operations Center (SOC) come Analista di 1° livello, mettendo in pratica le competenze acquisite nel corso intensivo di 3 mesi su networking e cybersecurity.
 
@@ -49,6 +46,7 @@ Il mio obiettivo è entrare in un Security Operations Center (SOC) come Analista
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Fortinet%20Certified%20Fundamentals-FF0000?&style=for-the-badge&logo=Fortinet&logoColor=white" />    
 </div>
 
 ## Projects
