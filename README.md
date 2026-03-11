@@ -3,7 +3,7 @@
 
 Diplomato con una forte passione per la cybersecurity e un occhio sempre puntato sul mondo della sicurezza digitale.
 
-## Objective
+## Obiettivo
 
 Il mio obiettivo è entrare in un Security Operations Center (SOC) come Analista di 1° livello, mettendo in pratica le competenze acquisite nel corso intensivo di 3 mesi su networking e cybersecurity.
 
@@ -42,13 +42,11 @@ Il mio obiettivo è entrare in un Security Operations Center (SOC) come Analista
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+## Certificazioni
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Fortinet%20Certified%20Fundamentals-FF0000?&style=for-the-badge&logo=Fortinet&logoColor=white" />    
 </div>
 
-## Projects
+## Progetti
 - Detection Lab
 - SOC Automation Project
